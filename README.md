@@ -137,23 +137,6 @@ allowed by the Future Interns task.
 The output is a decision-support tool and should not replace
 human review or independent hiring decisions.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🎓 INTERNSHIP
-
-🏢 Future Interns
-💻 Machine Learning Internship
-📌 Task 3 — Resume / Candidate Screening System
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👩‍💻 AUTHOR
-
-Tanishka Janapure
-Machine Learning Intern
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 🖥️ FRONTEND UI
 
 The project includes a Streamlit interface for interactive screening.
@@ -172,5 +155,4 @@ The UI allows you to:
 🔎 Inspect matched and missing skills
 ⬇️ Download the generated ranking CSV
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"# FUTURE_ML_03" 
+
