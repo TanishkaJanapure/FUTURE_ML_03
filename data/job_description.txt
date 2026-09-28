@@ -1,0 +1,9 @@
+Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and evaluate practical machine learning solutions. The role involves Python programming, machine learning, data preprocessing, feature engineering, model evaluation, and working with NLP and natural language processing projects.
+
+Required skills:
+Python, Machine Learning, Scikit-learn, Pandas, NumPy, NLP, Natural Language Processing, SQL, Git, Statistics, Data Preprocessing, Feature Engineering, Model Evaluation.
+
+Preferred skills:
+Deep Learning, TensorFlow, PyTorch, Docker, AWS.

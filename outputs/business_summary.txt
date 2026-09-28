@@ -1,0 +1,22 @@
+RESUME SCREENING SUMMARY
+
+Job role: Machine Learning Engineer
+Candidates screened: 15
+
+Top ranked candidate: Aarav Sharma
+Role fit score: 51.3/100
+Text similarity: 0.337
+Required skill coverage: 92.3%
+
+Matched required skills:
+Python, Machine Learning, Scikit-learn, Pandas, NumPy, NLP, SQL, Git, Statistics, Data Preprocessing, Feature Engineering, Model Evaluation
+
+Missing required skills:
+Natural Language Processing
+
+SCORING LOGIC
+70% - TF-IDF cosine similarity between resume and job description
+30% - Required skill coverage
+
+This is an explainable decision-support output and should support,
+not replace, human review in a real recruitment process.
